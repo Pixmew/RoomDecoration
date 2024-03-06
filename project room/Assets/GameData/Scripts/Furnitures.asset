@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81afb51c68d57c64b9313b94829bccc4, type: 3}
+  m_Name: Furnitures
+  m_EditorClassIdentifier: 
+  sofas:
+  - {fileID: 6984546782638384674, guid: a51bea7f93e3a5749b45bf62ee46b9ff, type: 3}
+  - {fileID: 6984546782638384674, guid: 748ae5f2c968f9d409357a6f0b27e8b0, type: 3}
+  - {fileID: 6984546782638384674, guid: 93bc088d971e6b644a9e834ab6c22255, type: 3}
+  - {fileID: 6984546782638384674, guid: a001ae68515e2464bad1b3a0a63f0eee, type: 3}
+  - {fileID: 6984546782638384674, guid: c3853f07acddb084a8a634f20237be7a, type: 3}
+  - {fileID: 1219128805754938424, guid: 48cfe547e10a8214596d501b881ac332, type: 3}
+  - {fileID: 1219128805754938424, guid: 20508cd9c00617642ac0c66cdf44c98d, type: 3}
+  - {fileID: 1219128805754938424, guid: a853d852e49a6624a8e8803a81a66c6b, type: 3}
+  Cupboard:
+  - {fileID: 3766805252138193973, guid: 61ee306e3639709439f0fb3a81739f3d, type: 3}
+  - {fileID: 4394984381680574907, guid: b678f1bb1440fff47b09eaac04eeb32a, type: 3}
+  - {fileID: 3022310382247402087, guid: b97f72ec2496c984f85a9dda9beeddf5, type: 3}
+  Chair:
+  - {fileID: 6778113816147782094, guid: 2c89dedf5e6d55641a6c151c05168876, type: 3}
+  - {fileID: 6631488964541267246, guid: 2348587654a73af45a1f2b1f1a1d24ab, type: 3}
+  - {fileID: 6631488964541267246, guid: 5b552d01944470a4bb4b3c6f67a50fc0, type: 3}
+  - {fileID: 6631488964541267246, guid: e86ccd8f10d475a418f6fe1f9e62036c, type: 3}
+  - {fileID: 6778113816147782094, guid: 02a4d70670e438b45beaa403eaa26ab6, type: 3}
+  - {fileID: 6778113816147782094, guid: ac395927a6979fe449d60d4f3fdfc648, type: 3}
+  TV:
+  - {fileID: 4853575299197929941, guid: 495a595c29676f042a8b99242f489e38, type: 3}
+  - {fileID: 4853575299197929941, guid: 23c8c1879d1eaa6428f4e9a720c71d4a, type: 3}
+  FloorLamp:
+  - {fileID: 5333720297665602143, guid: ffc1a3def1c2f364cbf2dca62800c220, type: 3}
+  - {fileID: 9096876097518486378, guid: 1fadd9489adb01c48b730b80d0705c4c, type: 3}
+  CelingLights:
+  - {fileID: 2932151361762363941, guid: 23808aa985a0e57439b288de4dc2700a, type: 3}
+  - {fileID: 3807084118288068045, guid: 12256f15a277f4a49b401c9bd71c6777, type: 3}
+  - {fileID: 8977803009273612240, guid: bd21e49f26b3b7649aa2f67671cbf1f8, type: 3}
+  walls:
+  - {fileID: 2100000, guid: a95526c2f11c5bb4f948d9d03be24858, type: 2}
+  - {fileID: 2100000, guid: b2feaeb7e7d780a469e8d53a41737ef4, type: 2}
+  - {fileID: 2100000, guid: 25e750fca1b075a4f91daddce5dfe337, type: 2}
+  - {fileID: 2100000, guid: 45eb3ce260c50254091d76982dba9b0b, type: 2}
+  - {fileID: 2100000, guid: 35da6a58c21ccd34488bef12728e58f9, type: 2}
+  - {fileID: 2100000, guid: cad18e360c65a314aac8520fb936961d, type: 2}
+  - {fileID: 2100000, guid: 325a8501faf10ed4da65e4d5838789a9, type: 2}
+  - {fileID: 2100000, guid: 0598216fcc0c87448846785989181b29, type: 2}
